@@ -108,3 +108,23 @@ However, the long self-educating path I'm taking shouldn't prevent me from getti
 <div class="heart"></div>
 ```
 ---
+
+### Courses:
+- **JS/Frontend development course**, RS School (in progress)<br>
+
+- **Responsive Web Design**, FreeCodeCamp (in progress)<br>
+
+- **CS50: Introduction to Computer Science**, Harvard University (in progress)<br>
+
+- **Python**, Sololearn (in progress)<br>
+
+- **Scientific Computing with Python**, FreeCodeCamp (in progress)<br>
+
+- **Data Analysis with Python**, FreeCodeCamp (in progress)<br>
+
+- **SQL**, Sololearn (2022)<br>
+<img src="/images/sololearn-sql.jpeg" alt="Sololearn Certificate" style="height:250px; width:350px;"/><br>
+
+- **Bootcamp: Programming Using HTML and CSS**, Algorithmics (2022)<br>
+<img src="/images/algorithmics-html.jpeg" alt="Algorithmics Certificate" style="height:200px; width:350px;"/><br>
+
