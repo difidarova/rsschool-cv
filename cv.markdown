@@ -127,4 +127,42 @@ However, the long self-educating path I'm taking shouldn't prevent me from getti
 
 - **Bootcamp: Programming Using HTML and CSS**, Algorithmics (2022)<br>
 <img src="/images/algorithmics-html.jpeg" alt="Algorithmics Certificate" style="height:200px; width:350px;"/><br>
+---
+
+### Work Experience:
+**Sterling Startup Solutions Limited (Immigram.io)** (remote)<br>
+*Content Manager and Creator*, 12/2021 - now<br>
+
+**Lighthouse Reports** (remote)<br>
+*Volunteer Researcher*, 06/2021 - 09/2021<br>
+
+**KOMU-TV**, NBC-affiliate (Columbia, Missouri, United States)<br>
+*Producer, Reporter, Digital Producer, Production Assistant*, 01/2019 - 07/2020<br>
+
+**Channel One Russia** (Moscow, Russia)<br>
+*Senior Producer*, 08/2014 - 07/2018
+
+**LifeNews** (Moscow, Russia)<br>
+*Associate Producer*, 01/2014 - 08/2014
+
+---
+
+### Education:
+**The University of Missouri** (Columbia, Missouri, United States)<br>
+*MA in Journalism*, 2020<br>
+
+**Lomonosov Moscow State University** (Moscow, Russia)<br>
+*BA in Journalism*, 2017<br>
+
+---
+
+### Language Proficiency:
+**Russian:** Native <br>
+**English:** Proficient (according to the [EF SET test](https://www.efset.org/ef-set-50/))<br>
+<img src="/images/ef-test-result.png" alt="EF SET Score" style="height: 350px; width: 350 px;"/>
+<img src="/images/ef-test-speech-result.png" alt="EF Speech Score" style="height: 150px; width: 570px;"/><br>
+**Czech:** Basic <br>
+**Italian:** Basic <br>
+
+---
 
