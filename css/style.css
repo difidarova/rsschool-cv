@@ -19,7 +19,7 @@ body {
     
    .left-block {
      width: 62%;
-     background-color: white;
+     background-color: #78A2CC;
     }
     
     .right-block {
@@ -37,6 +37,8 @@ body {
     margin: 15px;
     border: 10px solid #78A2CC;
     border-radius: 50%;
+    width: 200px;
+    height: auto;
   }
   
   header h1 {
@@ -53,7 +55,7 @@ body {
   }
   
   main {
-    padding: 0 2px;
+    padding: 0;
     font-size: 1rem;
   }
   
@@ -76,14 +78,26 @@ body {
     margin-bottom: 10px;
   }
   
-  .contacts li img {
-    margin-right: 15px;
-    vertical-align: middle;
+  .contacts ul {
+    list-style-type: none;
+    margin: 15px;
+    padding: 0;
   }
-  
+
+  .contacts li img {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-right: 5px;
+    vertical-align: left;
+    object-fit: cover;
+    background-color: white;
+  } 
+
   .contacts li p {
     display: inline;
-    vertical-align: middle;
+    vertical-align: text-top;
   }
   
   .contacts a {
@@ -104,7 +118,7 @@ body {
   .languages strong {
     text-transform: uppercase;
   }
-  
+
   .right-block {
     font-size: 1rem;
   }
@@ -116,12 +130,16 @@ body {
     text-transform: uppercase;
     background-color: white;
     font-size: 1.2rem;
-    padding: 0 25px;
+    padding: 0 15px;
     vertical-align: middle;
+    align-items: center;
+    letter-spacing: 3px;
+    border: 1px solid #78A2CC;
+    border-radius: 4px;
   }
   
   .about-myself .sub-header {
-    margin-top: 0;
+    margin-top: 5px;
   }
   
   .about-myself p {
@@ -131,22 +149,21 @@ body {
   
   .right-block img {
     vertical-align: middle;
-    margin-right: 15px;
+    margin-right: 10px;
+    margin-left: 25px;
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 5px;
   }
   
   .courses p {
     margin-left: 45px;
-    margin-bottom: 0;
+    margin-bottom: 5px;
   }
   
   .courses p strong {
     text-transform: uppercase;
-  }
-  
-  .courses img {
-    vertical-align: middle;
-    margin-left: 45px;
-    margin-bottom: 5px;
   }
   
   .experience p {
@@ -178,5 +195,5 @@ body {
     padding: 20px;
     font-size: 1rem;
     color: black;
-    background-color: #78A2CC;
+    background-color: white;
   }
