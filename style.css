@@ -19,6 +19,7 @@ body {
     
    .left-block {
      width: 62%;
+     color: ;
      background-color: white;
     }
     
@@ -54,6 +55,7 @@ body {
   
   main {
     padding: 0 2px;
+    font-size: 1rem;
   }
   
   main h3 {
@@ -76,8 +78,98 @@ body {
   }
   
   .contacts li img {
+    margin-right: 15px;
+    vertical-align: middle;
+  }
+  
+  .contacts li p {
+    display: inline;
+    vertical-align: middle;
+  }
+  
+  .contacts a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  main :not(.contacts) ul {
+    list-style-type: disc;
+    margin-right: 15px;
+  }
+  
+  .skills-category {
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  
+  .languages strong {
+    text-transform: uppercase;
+  }
+  
+  .right-block {
+    font-size: 1rem;
+  }
+  
+  .sub-header {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    background-color: white;
+    font-size: 1.2rem;
+    padding: 0 25px;
+    vertical-align: middle;
+  }
+  
+  .about-myself .sub-header {
+    margin-top: 0;
+  }
+  
+  .about-myself p {
+    margin-bottom: 10px;
+    margin-left: 25px;
+  }
+  
+  .right-block img {
     vertical-align: middle;
     margin-right: 15px;
+  }
+  
+  .courses p {
+    margin-left: 45px;
+    margin-bottom: 0;
+  }
+  
+  .courses p strong {
+    text-transform: uppercase;
+  }
+  
+  .courses img {
+    vertical-align: middle;
+    margin-left: 45px;
+    margin-bottom: 5px;
+  }
+  
+  .experience p {
+    margin-left: 45px;
+    margin-bottom: 0;
+    line-height: 1px;
+  }
+  
+  .experience strong {
+    text-transform: uppercase;
+  }
+  
+  .education ul {
+    list-style-type: disc;
+    margin-left: 5px;
+    margin-bottom: 30px;
+  }
+  
+  .education-name {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 15px;
   }
   
   footer {
